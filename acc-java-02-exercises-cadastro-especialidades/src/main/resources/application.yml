@@ -1,0 +1,23 @@
+server:
+    port: 8080
+    servlet:
+      context-path: /api
+spring:
+    datasource:
+      url: jdbc:h2:mem:speciality
+      driverClassName: org.h2.Driver
+      username: speciality-app
+      password: speciality-app!
+    jpa:
+      database-platform: org.hibernate.dialect.H2Dialect
+      hibernate:
+        ddl-auto: update
+    h2:
+      console:
+        enabled: true
+        path: /h2-console
+logging:
+  level:
+    root: info
+  file:
+    path: ./logs/speciality-app.log

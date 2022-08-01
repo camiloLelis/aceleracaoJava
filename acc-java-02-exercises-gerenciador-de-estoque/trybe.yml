@@ -1,0 +1,9 @@
+ignore_files:
+  - pom.xml
+  - src/main/java/com/trybe/acc/java/gerenciadorestoque/endpoint/
+  - src/main/java/com/trybe/acc/java/gerenciadorestoque/persistence/
+  - src/main/java/com/trybe/acc/java/gerenciadorestoque/service/
+  - src/test/java/com/trybe/acc/java/gerenciadorestoque/TestecontainerApplicationTests.java
+  - src/test/java/com/trybe/acc/java/gerenciadorestoque/ContainerTest.java
+  - mvnw
+  - .mvn/

@@ -1,0 +1,28 @@
+{
+  "requirements": [
+    {
+      "description": "1 - Verifica se o método `identificarAnoBissexto` retorna `false` quando recebe `2021` como parâmetro",
+      "bonus": false
+    },
+    {
+      "description": "2 - Verifica se o método `identificarAnoBissexto` retorna `true` quando recebe `2024` como parâmetro",
+      "bonus": false
+    },
+    {
+      "description": "3 - Verifica se o método `identificarAnoBissexto` retorna `false` quando recebe `1901` como parâmetro",
+      "bonus": false
+    },
+    {
+      "description": "4 - Verifica se o método `identificarAnoBissexto` retorna `true` quando recebe `1904` como parâmetro",
+      "bonus": false
+    },
+    {
+      "description": "5 - Verifica se o método `identificarProximoAnoBissexto` retorna `2024` quando recebe `\"22/12/2021\"` como parâmetro",
+      "bonus": false
+    },
+    {
+      "description": "6 - Verifica se o método `identificarProximoAnoBissexto` retorna `1904` quando recebe `\"13/02/1901\"` como parâmetro",
+      "bonus": false
+    }
+  ]
+}

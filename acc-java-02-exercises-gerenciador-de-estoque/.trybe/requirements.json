@@ -1,0 +1,42 @@
+{
+  "requirements": [
+  
+    {
+      "description": "1 - Deve cadastrar um novo pedido com sucesso.",
+      "bonus": false
+    },
+    {
+      "description": "2 - Deve listar todos os pedidos com sucesso.",
+      "bonus": false
+    },
+    {
+      "description": "3 - Deve buscar um pedido pelo id com sucesso.",
+      "bonus": false
+    },
+    {
+      "description": "4 - Deve atualizar um pedido pelo id com sucesso.",
+      "bonus": false
+    },
+    {
+      "description": "5 - Deve excluir um pedido pelo id com sucesso.",
+      "bonus": false
+    },
+    {
+      "description": "6 - O docker-compose.yml existe.",
+      "bonus": false
+    },
+    {
+      "description": "7 - O Dockerfile existe.",
+      "bonus": false
+    },
+    {
+      "description": "8 - O Dockerfile é multi-stage.",
+      "bonus": false
+    },
+    {
+      "description": "9 - O arquivo de teste contém a configuração do MongoDBContainer.",
+      "bonus": false
+    }
+    
+  ]
+}

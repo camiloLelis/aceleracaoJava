@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "description": "1 - Escreva um método que calcule o rendimento anual",
+      "bonus": false
+    },
+    {
+      "description": "2 - Escreva um método que mostra uma mensagem no console",
+      "bonus": false
+    }
+  ]
+}
+  

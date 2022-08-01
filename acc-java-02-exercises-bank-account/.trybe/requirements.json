@@ -1,0 +1,28 @@
+{
+  "requirements": [
+    {
+      "description": "1 - Verifica se o projeto tem o Apache Commons como dependência.",
+      "bonus": false
+    },
+    {
+      "description": "2 - Verifica se existe o arquivo build.gradle.",
+      "bonus": false
+    },
+    {
+      "description": "3 - Formata número de conta MENOR que 6 digitos.",
+      "bonus": false
+    },
+    {
+      "description": "4 - Formata número de conta MAIOR que 6 digitos.",
+      "bonus": false
+    },
+    {
+      "description": "5 - Formata número de conta IGUAL a 6 digitos.",
+      "bonus": false
+    },
+    {
+      "description": "6 - Executa o método main com sucesso.",
+      "bonus": false
+    }
+  ]
+}

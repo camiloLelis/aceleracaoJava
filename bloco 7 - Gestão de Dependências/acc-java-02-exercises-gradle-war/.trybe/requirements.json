@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "description": "1 - Verifica o build foi feito com sucesso.",
+      "bonus": false
+    },
+    {
+      "description": "2 - Valida se as dependências Apache Commons foi inserida.",
+      "bonus": false
+    },
+    {
+      "description": "3 - Valida se as dependências Google Guava foi inserida.",
+      "bonus": false
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "requirements": [
+    {
+      "description": "1 - Verifica se veículo foi adicionado com sucesso.",
+      "bonus": false
+    }
+  ]
+}
